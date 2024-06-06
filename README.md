@@ -6,9 +6,13 @@
 
 🌐 **Dashboard Highlights:**
 📊 **Finance View**: Explore the Profit & Loss details, Net Sales trends, and top-performing products and customers.
+
 💼 **Sales View**: Analyze customer and product performance using matrix and scatter charts.
+
 📣 **Marketing View**: Review Gross Margin % and Net Profit % across segments, and get insights on operational expenses.
+
 ⚙️ **Supply Chain View**: Check Forecast Accuracy, Net Error, and Absolute Error by customer and product.
+
 👔 **Executive View**: Get strategic insights on Market Share trends and revenue, with a Ribbon Chart showing PC Market share trends.
 
 🙌 **Learnings**: Learned how to use Power BI effectively, mastered advanced DAX formulas, developed a project charter, and improved communication with stakeholders.
