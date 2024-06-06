@@ -17,5 +17,5 @@
 
 🙌 **Learnings**: Learned how to use Power BI effectively, mastered advanced DAX formulas, developed a project charter, and improved communication with stakeholders.
 
-**Solution**: The sales director of AltiQ hardware decided to build a PowerBI Dashboard to convert the data into visual representations for making data-driven decisions.
+**Solution**: Buliding a power BI dashboard to convert the data into visual representations for making data-driven decisions.
 
